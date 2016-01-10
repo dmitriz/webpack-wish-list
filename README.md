@@ -1,5 +1,5 @@
 # My Webpack Wish List
-Critics and other opinions welcome.
+Critics and other opinions are always welcome.
 
 ## On empty ~~stomach~~ directory
 Running
