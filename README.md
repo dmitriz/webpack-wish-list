@@ -3,7 +3,7 @@ Critics and other opinions are always welcome.
 
 ## Dear [Webpack](https://webpack.github.io/),
 I know you are very powerful but when people meet you first time, they may feel frustrated.
-Here is my wish list, how you could make their experience better.
+Here is my wish list, how you could make our experience better and more fun.
 
 ## On empty ~~stomach~~ directory
 Running
