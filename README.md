@@ -274,4 +274,5 @@ But could our journey have been easier? I think it could.
 - Use smart default for any configuration entry missing.
 - Try your best to figure the correct files.
 - Try to be more detailed and expressive in telling us what is wrong.
-- Don't silently ignore our entries even if they are illegal --- complain hard!!!
+- Don't silently ignore our entries when you don't like them --- complain hard and to the pont!!!
+- Remember the **Rule of Least Surprise** and other principles form [Unix Philosophy](http://www.faqs.org/docs/artu/ch01s06.html)
