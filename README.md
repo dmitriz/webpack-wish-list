@@ -266,5 +266,5 @@ Magic!
 
 
 ## What can I say?
-Forget the Docs and read [this book](http://survivejs.com/webpack_react/), it will save you a lot of time.
+Forget the Docs and read [this book](http://survivejs.com/webpack_react/), it is awesome and will save you a lot of time.
 But could our journey have been easier? I think it could.
