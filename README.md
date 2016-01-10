@@ -26,9 +26,11 @@ $ <in-red> No webpack.config.js found. </in-red>
 ```js
 output: 'bundle'
 output: 'bundle.js'
-  output: {
-  	file: 'bundle.js'
-  }
+output: {
+	file: 'bundle.js'
+}
 ```
 Yes, I know, it is `filename` not `file` that I like to see but can't you give me some pleasure to be lazy and enter `file`?
-- If you can't figure the config, fail hard and tell me! Don't silently ignore illegal declarations and let me in the dark.
+- If you can't understand my config, fail hard and tell me! Don't silently ignore illegal declarations and let me in the dark.
+
+
