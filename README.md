@@ -51,6 +51,6 @@ Version: webpack 1.12.10
 Time: 16ms
 ```
 
-** My wishes: **
+**My wishes:**
 - Tell we what you've done! Did you create `bundle.js`? No! Then tell me!
 - Don't tell me what might not be immediately helpful. 
