@@ -267,4 +267,11 @@ Magic!
 
 ## What can I say?
 Forget the Docs and read [this book](http://survivejs.com/webpack_react/), it is awesome and will save you a lot of time.
-But could our journey have been easier? I think it could.
+But could our journey have been easier? I think it could. 
+
+## Final wish list for Mr. Webpack:
+- Be more gentle and forgiving, allow more flexibility.
+- Use smart default for any configuration entry missing.
+- Try your best to figure the correct files.
+- Try to be more detailed and expressive in telling us what is wrong.
+- Don't silently ignore our entries even if they are illegal --- complain hard!!!
