@@ -14,7 +14,7 @@
   "author": "Dmitri Zaitsev <dmitri14@gmail.com> (https://github.com/dmitriz)",
   "license": "MIT",
   "devDependencies": {
-    "webpack": "^1.12.10",
-    "webpack-dev-server": "^1.14.0"
+    "webpack": "1.15.0",
+    "webpack-dev-server": "1.16.5"
   }
 }
